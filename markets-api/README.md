@@ -1,1 +1,2 @@
-
+This project to demonstration base Spring Boot Framework and JPA features like
+Controllers, DAO, Entities, Exception handling, etc...
